@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.header {
+    text-size-adjust: 15px;
+    color: coral;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(151, 122, 179);
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+button {
+    border: 2px solid transparent;
+    border-radius: 4px;
+    width: 60px;
+    height: 60px;
+    background: rgb(255, 166, 0);
+    color: rgb(3, 3, 2);
+}
+
+button:hover {
+    background: rgba(4, 180, 171, 0.836);
+    width: 70px;
+    height: 70px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background: url(https://wallpapertag.com/wallpaper/full/d/f/c/347108-white-background-hd-1920x1080-for-ipad-pro.jpg);
+    background-size: cover;
+    position: static;
+}
+
+h1 {
+    font-size: 10px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+    font-size: 9px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    font-size: 9px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+    font-size: 9px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+input {
+    border: 8px solid transparent;
+    border-color: rgb(255, 166, 0);
+    border-radius: 10px;
+    width: 500px;
+    background-color: black;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+    position: fixed;
+    height: 28px;
+}
+
+form {
+    margin-left: 35%;
+    margin-top: 200px;
+    height: 30px;
+    padding: 10px;
+    position: fixed;
+}
+
+footer {
+    position: fixed;
+    font-size: 30px;
+    font-family: 'Indie Flower', cursive;
+    margin-top: 600px;
+    margin-left: 400px;
+}
+
+.p4 {
+    position: fixed;
+    margin-top: 900px;
+    margin-left: 500px;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.mainImages {
+    position: fixed;
+    width: 200px;
+    height: 200px;
+    margin-top: 350px;
+    border: 10px solid transparent;
+    border-color: rgba(77, 77, 74, 0.993);
+    border-radius: 10px;
+}
